@@ -1,0 +1,4 @@
+Modelo,Accuracy,Precision,Recall,F1-score,Latencia total (s),Latencia por reseña (ms)
+TinyBERT IMDB,0.906,0.9132,0.9025,0.9078,1.5962,1.5962
+DistilBERT SST-2,0.901,0.9295,0.8733,0.9005,6.0124,6.0124
+DistilBERT Product Reviews,0.909,0.8702,0.9669,0.916,6.2087,6.2087
