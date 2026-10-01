@@ -1,0 +1,9 @@
+```
+transformers
+datasets
+evaluate
+scikit-learn
+pandas
+torch
+huggingface_hub
+```
